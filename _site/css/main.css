@@ -1322,7 +1322,7 @@ html[xmlns] .flexslider .slides {
 .navbar-andross {
   border-bottom: 2px solid #999;
   border-radius: 0;
-  min-height: 52px;
+  min-height: 70px;
   background: #ffffff;
   width: 100%;
   overflow: hidden; }
@@ -1359,11 +1359,12 @@ html[xmlns] .flexslider .slides {
     color: #0A223E; }
 
 .cta {
-  background: transparent;
-  color: #123456;
+  background: #D71117;
+  color: white;
   text-transform: capitalize;
   font-size: 2rem;
-  font-weight: 300; }
+  font-weight: 300;
+  border-radius: 5px; }
   .cta:hover {
     background: #eeeeee;
     color: #030a12; }
@@ -1379,6 +1380,9 @@ html[xmlns] .flexslider .slides {
 
 .phone, .fa-phone {
   color: #fff; }
+
+.navbar-nav > li > a {
+  margin-top: 10px; }
 
 .navbar {
   padding-right: 15px;
@@ -2337,8 +2341,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
-  color: #5d9bd3;
+  color: #0A223E;
   padding: 2rem;
   text-align: center;
   font-size: 18px; }
@@ -2527,8 +2530,10 @@ form select {
   margin-top: 20px; }
 
 .cta {
-  background: transparent;
-  color: #123456;
+  background: #D71117;
+  color: #fff;
+  border-radius: 5px;
+  padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -2564,13 +2569,13 @@ form select {
   #myBtn {
     bottom: 40px; } }
 .footer {
-  color: #fff; }
+  color: #0A223E; }
   .footer .attribution svg {
-    fill: #fff; }
+    fill: #0A223E; }
   .footer .socials svg {
-    fill: #fff; }
+    fill: #0A223E; }
   .footer a {
-    color: #fff; }
+    color: #0A223E; }
 
 .newsletter {
   background: #919191; }
