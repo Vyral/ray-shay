@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Investing in Real Estate: Your Real Money Machine'
-date: 2019-09-13 19:36:45
+date: 2019-09-13 19:36:00
 tags:
   - Real Estate
 excerpt: >-
