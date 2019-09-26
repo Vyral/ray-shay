@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beautiful Million Dollar Home FOR SALE: 17221 Sangallo Ln, San Diego, CA'
-date: 2019-09-26 18:43:03
+date: 2019-09-26 18:43:00
 tags:
   - Real Estate
 excerpt: >-
