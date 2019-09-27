@@ -19,4 +19,4 @@ youtube_code: m9TotNZ3Tw8
 
 {% include youtube.html %}
 
-Check out this beautiful new listing located in the gated community of Salviati. This home features a stunning resort like backyard with a swimming pool, wet bar, spa and waterfall. Each of it's four bedrooms has it's own full bathroom and the home comes equipped with a hard wired Alexa Smart Home system. You won't want to miss out on this incredible opportunity\!
+Check out this beautiful new listing located in the gated community of Salviati. This home features a stunning resort like backyard with a swimming pool, wet bar, spa and waterfall. Each of it's four bedrooms has it's own full bathroom and is apart of the award-winning school district of Poway Unified\! You won't want to miss out on this incredible opportunity\!
