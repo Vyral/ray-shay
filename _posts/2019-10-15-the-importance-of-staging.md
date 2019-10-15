@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Staging
-date: 2019-10-15 18:44:52
+date: 2019-10-15 18:44:00
 tags:
   - Home Seller Tips
 excerpt: >-
