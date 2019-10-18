@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ray-shay-whats-the-best-kind-of-investment-you-can-make-youtube.jpg
-youtube_code: 'https://youtu.be/ZCGWzYeN4i4'
+youtube_code: 5pky4Pm59KY
 ---
 
 {% include youtube.html %}
