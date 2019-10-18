@@ -19,7 +19,7 @@ youtube_code: 5pky4Pm59KY
 
 {% include youtube.html %}
 
-If you need a money machine to take care of you and your family, buy an investment property.&nbsp;
+<p style="text-align:center;"><em>If you need a money machine to take care of you and your family, buy an investment property.</em></p>
 
 Today you’ll notice I’m standing inside a new car lot. Why? A lot of my clients who are interested in investment opportunities might think that buying a new car is their best bet. I’ve been in the real estate business for 15 years, and I’ve learned that one of the best investments you can make is buying an investment property and renting it out. In fact, we call them “money machines.” There are many great cars in this lot, but the real reward of investing is the capitalization of your investment. With that in mind, we have a couple of 2-bedroom, 2-bathroom homes coming on the market listed at about $500,000. The owner wants them sold quickly. This is a great investment opportunity, so get in touch with an agent or someone on my team and see what your payout would be if you invested in one of these homes.
 
