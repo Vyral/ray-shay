@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beautiful Del Mar Home for Sale
-date: 2019-11-01 21:56:03
+date: 2019-11-01 21:56:00
 tags:
   - Real Estate
 excerpt: >-
