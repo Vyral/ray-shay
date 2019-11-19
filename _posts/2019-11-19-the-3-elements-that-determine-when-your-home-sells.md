@@ -22,7 +22,7 @@ youtube_code: KBjDJ-KrRwA
 
 {% include youtube.html %}
 
-Today we’ll discuss the three top elements that determine whether your home sells, and for the best price.
+<p style="text-align:center;"><em>Today we’ll discuss the three top elements that determine whether your home sells, and for the best price.</em></p>
 
 Today we’re going to be talking about what determines when your house sells, and if it sells for top price. What are the three biggest elements you need to know as a seller? Whether your home is FSBO (For Sale By Owner), you sell with our company, or another company, these three components will help your home sell faster:&nbsp;
 
