@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ray+Shay/The+3+Elements+That+Determine+When+Your+Home+Sells.mp4
 pullquote: >-
-  Especially in today’s market conditions, you want to boost the amount of
+  Especially in today’s market conditions, you want to boost the number of
   people viewing the house.
 enclosure_type: video/mp4
 enclosure_time:
@@ -38,4 +38,3 @@ Frequently, the first week is when you’ll get the best offers. Many people wan
 
 If you have any questions, don’t hesitate to give me a call or send me an email we’ll be happy to help you.
 
-{% include pullquote.html %}
