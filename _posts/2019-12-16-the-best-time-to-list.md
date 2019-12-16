@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Time to List
-date:
+date: 2019-12-16 17:17:00
 tags:
 excerpt: 'If you plan on listing your home, the sooner you can do so, the better.'
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Ray+Shay/The+Best+Time+to+List.mp4'
