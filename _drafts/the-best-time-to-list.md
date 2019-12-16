@@ -17,6 +17,8 @@ youtube_code: WlvcE-5g40Y
 
 {% include youtube.html %}
 
+If you plan on listing your home, the sooner you can do so, the better.
+
 With the holiday season in full swing and the new year coming up, many people are asking me whether they should list their home this December, wait until January, or wait until spring.&nbsp;
 
 Home prices are still trending upward, market time is still very low, and inventory is limited. This means **the sooner you can get your home on the market, the better.** However, you might want to skip out on the next couple weeks and enjoy spending time with your family instead. Then, once January arrives, wait a few days—or even the middle of the month—to list.
