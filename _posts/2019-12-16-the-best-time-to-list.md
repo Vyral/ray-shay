@@ -17,7 +17,7 @@ youtube_code: WlvcE-5g40Y
 
 {% include youtube.html %}
 
-*If you plan on listing your home, the sooner you can do so, the better.*
+<p style="text-align: center;"><em>If you plan on listing your home, the sooner you can do so, the better.</em></p>
 
 With the holiday season in full swing and the new year coming up, many people are asking me whether they should list their home this December, wait until January, or wait until spring.&nbsp;
 
