@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/NApl7JbRcOE'
 
 {% include youtube.html %}
 
-*Here’s a quick demonstration of how appraisals work.*
+<p style="text-align: center;"><em>Here’s a quick demonstration of how appraisals work.</em></p>
 
 How do appraisals work? You can follow along in the video above as I provide a quick demonstration using a couple of apples and a few pumpkins, in honor of the most recent Halloween that’s come and gone.&nbsp;
 
