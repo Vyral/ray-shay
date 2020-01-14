@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do Contingent Offers Work in This Market?
-date: 2020-01-14 17:18:08
+date: 2020-01-14 17:18:00
 tags:
   - Real Estate
   - Home Seller Tips
