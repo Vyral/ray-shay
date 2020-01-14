@@ -20,7 +20,7 @@ youtube_code: '-MLFtNlfw10'
 
 {% include youtube.html %}
 
-Contingent offers aren’t ideal, but they aren’t always the risk that some make them out to be. Here’s what you need to know.
+<p style="text-align: center;"><em>Contingent offers aren’t ideal, but they aren’t always the risk that some make them out to be. Here’s what you need to know.</em></p>
 
 Contingent offers have become a popular topic of conversations. Sellers get concerned that their contingent offer won’t be accepted, and they don’t want to take the chance of selling before they find a new home and becoming homeless.
 
