@@ -20,11 +20,11 @@ youtube_code: '-MLFtNlfw10'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Contingent offers aren’t ideal, but they aren’t always the risk that some make them out to be. Here’s what you need to know.</em></p>
+*Contingent offers aren’t ideal, but they aren’t always the risk that some make them out to be. Here’s what you need to know.*
 
-Contingent offers have become a popular topic of conversations. Sellers get concerned that their contingent offer won’t be accepted, and they don’t want to take the chance of selling before they find a new home and becoming homeless.
+Contingent offers have become a popular topic of conversation. Sellers get concerned that their contingent offer won’t be accepted, and they don’t want to take the chance of selling before they find a new home and becoming homeless.
 
-First off, I’ll never let you go homeless. Second, here are a couple strategies that we use with contingent offers.
+First off, I’ll never let you go homeless. Second, here are a couple of strategies that we use with contingent offers.
 
 **One strategy for sellers is the “contingent upon finding a replacement property.”** This allows you to put your home on the market while also ensuring that it won’t sell until you find a new home. This gives you the ability to find your new home without the risk of losing your current one. We’ve been able to do this multiple times for our clients.
 
