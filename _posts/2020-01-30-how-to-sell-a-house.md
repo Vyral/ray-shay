@@ -19,7 +19,7 @@ youtube_code: cmeY5X6jLN0
 
 {% include youtube.html %}
 
-Today I’m laying out how to sell a home in five simple steps.&nbsp;
+<p style="text-align: center;"><em>Today I’m laying out how to sell a home in five simple steps.</em></p>
 
 What are the main points of selling a home? I’m going to break it down into its simplest terms:
 
