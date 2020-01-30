@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Sell a House
-date:
+date: 2020-01-30 22:19:39
 tags:
   - Real Estate
   - Home Seller Tips
