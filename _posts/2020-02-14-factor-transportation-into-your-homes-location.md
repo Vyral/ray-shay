@@ -19,7 +19,7 @@ youtube_code: FTIbZ7wvQMM
 
 {% include youtube.html %}
 
-Today I’m coming to you from the Solana Beach train station to underscore the importance of considering transportation when buying a home.&nbsp;
+<p style="text-align: center;"><em>Today I’m coming to you from the Solana Beach train station to underscore the importance of considering transportation when buying a home.</em></p>
 
 It’s another sunny day in beautiful Southern California, and today I’m at the train station in Solana Beach. Taking the train from here is a great way to get to Los Angeles, with nearby bus service to the airport.&nbsp;
 
