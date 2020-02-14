@@ -29,9 +29,7 @@ A great Realtor should go beyond simply repeating, “How awesome is the view fr
 
 {% include pullquote.html %}
 
-There’s so much to consider when it comes to factoring in transportation. **Make sure you have**
-
-**easy access to L.A., downtown San Diego, the airport, or whatever spots matter most to you.&nbsp;**
+There’s so much to consider when it comes to factoring in transportation. **Make sure you have easy access to L.A., downtown San Diego, the airport, or whatever spots matter most to you.&nbsp;**
 
 Stay tuned, because in the next couple of months we’ll be talking more in-depth about what there is to see around San Diego (and what may be worth living by).&nbsp;
 
