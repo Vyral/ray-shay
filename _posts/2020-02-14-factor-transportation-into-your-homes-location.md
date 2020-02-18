@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Factor Transportation into Your Home’s Location
+title: Factor Transportation Into Your Home’s Location
 date: 2020-02-14 21:27:49
 tags:
   - Real Estate
