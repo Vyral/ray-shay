@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Partnering with Professionals
-date:
+date: 2020-03-24 22:29:48
 tags:
   - Real Estate
 excerpt: >-
