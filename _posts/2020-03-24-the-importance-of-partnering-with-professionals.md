@@ -21,7 +21,8 @@ youtube_code: xvFkVf1Bub8
 
 {% include youtube.html %}
 
-*Let me explain why it’s a great time to sell in Southern California—and why not just anyone can sell a home.*
+<p style="text-align: center;"><em>Let me explain why it’s a great time to sell in Southern California—and why not just anyone can sell a home.</em></p>
+
 
 Here’s a not-so-new story from Shay Realtors: One of our properties sold after having attracted multiple offers, allowing us to push the price up significantly and work out a great deal for our clients. This tale is indicative not only of the market conditions here in Southern California, but of the value of working with a professional brokerage.&nbsp;
 
