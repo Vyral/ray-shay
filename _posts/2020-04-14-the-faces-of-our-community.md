@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Faces of Our Community
-date:
+date: 2020-04-14 21:37:20
 tags:
   - Real Estate
 excerpt: >-
