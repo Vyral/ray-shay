@@ -23,6 +23,6 @@ youtube_code: mmzF_KU0ThE
 
 Did I ever imagine that I would one day have to wear a mask and gloves to do showings for all these beautiful homes? No, and I’m sure you didn’t either. However, **we are taking extra special precautions to make sure we can carry out our clients’ transactions safely.** Governor Newsom has ordered that real estate is an essential service to the economy, so we’re having to find new ways to do business.&nbsp;
 
-For example, we’ve largely gone virtual, including doing listing presentations via video calls and using digital signatures to safely carry out our functions as professional Realtors. We want to do our part to support our economy and communities, even while we practice common-sense social distancing measures.&nbsp;
+For example, we’ve largely gone virtual, by doing listing presentations via video calls and using digital signatures to safely carry out our functions as professional Realtors. We want to do our part to support our economy and communities, even while we practice common-sense social distancing measures.&nbsp;
 
 If you have questions or need anything, let us know what we can do to help you.
