@@ -19,7 +19,7 @@ youtube_code: mmzF_KU0ThE
 
 {% include youtube.html %}
 
-The era of social distancing has disrupted everything, but we Realtors are still able to serve your needs. Here’s what we’re doing to keep you safe.
+<p style="text-align: center;"><em>The era of social distancing has disrupted everything, but we Realtors are still able to serve your needs. Here’s what we’re doing to keep you safe.</em></p>
 
 Did I ever imagine that I would one day have to wear a mask and gloves to do showings for all these beautiful homes? No, and I’m sure you didn’t either. However, **we are taking extra special precautions to make sure we can carry out our clients’ transactions safely.** Governor Newsom has ordered that real estate is an essential service to the economy, so we’re having to find new ways to do business.&nbsp;
 
