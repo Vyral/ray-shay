@@ -17,6 +17,6 @@ youtube_code: Ds2eEl0VfnU
 
 {% include youtube.html %}
 
-Properties like 815 Beach Front Dr. don’t come on the market often.
+<p style="text-align: center;"><em>Properties like 815 Beach Front Dr. don’t come on the market often.</em></p>
 
 Welcome to 815 Beach Front Dr. in Solana Beach. Homes like this rarely come on the market. It’s 1,000 square feet sitting right on the beach with beautiful views, updated appliances, and more. It’s also within walking distance of plenty of restaurants and the Del Mar Fairgrounds. You won’t find a place much better than this in San Diego. To see a full tour, watch this short video.
