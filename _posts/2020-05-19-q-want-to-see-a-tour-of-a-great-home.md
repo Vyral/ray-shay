@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Want to See a Tour of a Great Home?'
-date:
+date: 2020-05-19 20:53:11
 tags:
   - Home Seller Tips
   - Real Estate
