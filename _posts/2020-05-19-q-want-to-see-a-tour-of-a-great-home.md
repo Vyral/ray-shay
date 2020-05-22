@@ -18,10 +18,11 @@ youtube_code: CD6URmVYclo
 
 {% include youtube.html %}
 
-Come tour 15630 Hayden Lake Place with me; it’s an amazing home\!
+<p style="text-align: center;"><em>
+ome tour 15630 Hayden Lake Place with me; it’s an amazing home!</em></p>
 
 Here at Shay Realtors, we’re doing our very best to protect our clients; we’re taking safety precautions very seriously. Today I’m at 15630 Hayden Lake Place in San Diego with a mask and gloves on to show you around this wonderful home.&nbsp;
 
-It has five bedrooms, a second-generation suite downstairs, **it’s at the end of a cul-de-sac, has a fantastic view, and the neighborhood has a guard and gated entry.** You need to see this house; you’re going to love it\! To see a tour of this great home, watch the video above.&nbsp;
+It has five bedrooms, a second-generation suite downstairs, **a fantastic view, and is located at the end of a cul-de-sac in a neighborhood with a guard-gated entry.** You need to see this house; you’re going to love it\! To see a tour of this great home, watch the video above.&nbsp;
 
 If you ever have any questions about real estate, please reach out to us via phone or email. We would love to help you.
