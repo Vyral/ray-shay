@@ -18,8 +18,7 @@ youtube_code: CD6URmVYclo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>
-ome tour 15630 Hayden Lake Place with me; it’s an amazing home!</em></p>
+<p style="text-align: center;"><em>Come tour 15630 Hayden Lake Place with me; it’s an amazing home!</em></p>
 
 Here at Shay Realtors, we’re doing our very best to protect our clients; we’re taking safety precautions very seriously. Today I’m at 15630 Hayden Lake Place in San Diego with a mask and gloves on to show you around this wonderful home.&nbsp;
 
