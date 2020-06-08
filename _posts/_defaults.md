@@ -4,7 +4,7 @@ title:
 date:
 tags:
 excerpt:
-enclosure:
+enclosure: 
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
