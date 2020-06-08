@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Does Our Latest Listing Have to Offer?'
-date:
+date: 2020-06-08 18:52:03
 tags:
   - Real Estate
 excerpt: We shot aerial footage of our latest listing just to capture its glory.
