@@ -5,7 +5,7 @@ date: 2020-06-08 18:52:03
 tags:
   - Real Estate
 excerpt: We shot aerial footage of our latest listing just to capture its glory.
-enclosure:https://vyralmarketing.s3.amazonaws.com/Ray+Shay/Q-+What+Does+Our+Latest+Listing+Have+to+Offer_.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ray+Shay/Q-+What+Does+Our+Latest+Listing+Have+to+Offer_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
