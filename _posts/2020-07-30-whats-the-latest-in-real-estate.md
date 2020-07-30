@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Few Notes About Real Estate Right Now
+title: What’s the Latest in Real Estate?
 date: 2020-07-30 15:38:46
 tags:
   - Real Estate
