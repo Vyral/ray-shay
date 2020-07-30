@@ -18,7 +18,7 @@ youtube_code: DK77RSiVU1I
 
 {% include youtube.html %}
 
-Here are a few notes about what’s going on in real estate these days.
+<p style="text-align: center;"><em>Here are a few notes about what’s going on in real estate these days.</em></p>
 
 Today I have a few notes to share about our current real estate environment.
 
