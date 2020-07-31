@@ -24,7 +24,7 @@ Today I have a few notes to share about our current real estate environment.
 
 Appraisals have become a large issue lately because homes are selling for more than what they appraise for. We’re great at countering so the buyer knows that we’re not splitting the difference; they’re responsible for covering the difference in price. We’re very clear in the terms and conditions that there are no appraisal contingencies.&nbsp;
 
-You should also keep the terms in mind. **There are many opportunities for sellers to make the most out of their investment.** This may mean a two-month free rent-back or a variety of other things we can adjust in the terms. Both the price and terms are essential.
+You should also keep the terms in mind. **There are many opportunities for sellers to make the most out of their investment.** This may mean a free, two-month rent-back or a variety of other things we can adjust in the terms. Both the price and terms are essential.
 
 {% include pullquote.html %}
 
@@ -32,4 +32,4 @@ If you’re single and have lived in your house for two of the last five years, 
 
 We’ll be seeing changes in the real estate market in the next six months to a year because there are a lot of people currently out of work.
 
-**We want you all to be safe; we care about you.** When you go out, please wear a mask—they don’t look that bad. If you have any questions about the topics I discussed today or concerning real estate in general, please call us at (858) 449-4970 or email us. We would love to help you.
+**We want you all to be safe; we care about you.** When you go out, please wear a mask—they don’t look that bad. If you have any questions about the topics I discussed today or real estate in general, please call us at (858) 449-4970 or email us. We would love to help you.
