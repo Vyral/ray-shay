@@ -17,7 +17,7 @@ youtube_code: DrJIlQV28fY
 
 {% include youtube.html %}
 
-*Our local housing market is on fire, and there are eight reasons why.*
+<p style="text-align: center;"><em>Our local housing market is on fire, and there are eight reasons why.</em></p>
 
 Why is our local housing market so hot? There are eight reasons, in particular:
 
