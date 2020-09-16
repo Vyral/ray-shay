@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are the Top 8 Reasons Our Market Is on Fire?'
-date: 2020-09-14 18:57:09
+date: 2020-09-14 18:57:00
 tags:
 excerpt: 'Our local housing market is on fire, and there are eight reasons why.'
 enclosure: >-
@@ -16,11 +16,11 @@ youtube_code: DrJIlQV28fY
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our local housing market is on fire, and there are eight reasons why.</em></p>
+*Our local housing market is on fire, and there are eight reasons why.*
 
 Why is our local housing market so hot? There are eight reasons, in particular:
 
-**1\. Limited inventory.** In other words, there aren’t many homes for sale&nbsp;
+**1\. Limited inventory.** In other words, there aren’t many homes for sale.
 
 **2\. Record-low interest rates.** Right now they’re below 3%, which has *never* happened before.&nbsp;
 
@@ -28,9 +28,9 @@ Why is our local housing market so hot? There are eight reasons, in particular:
 
 **4\. School systems.** About 90% of all buyers look at school systems before deciding where to buy, and our school district is exceptional.&nbsp;
 
-**5\. Master planned.** Whether it’s Del Sur, Santa Luz, Crosby, etc., there are some great communities in our area working together to provide many items on this list.&nbsp;
+**5\. Master-planned.** Whether it’s Del Sur, Santaluz, Crosby, etc., there are some great communities in our area working together to provide many items on this list.&nbsp;
 
-**6\. Family friendly.** I’ve raised three sons in this area, so believe me when I say there’s a sense of friendliness everywhere you go.&nbsp;
+**6\. Family-friendly.** I’ve raised three sons in this area, so believe me when I say there’s a sense of friendliness everywhere you go.&nbsp;
 
 **7\. Diversity.** We have a diverse, thriving mix of cultures.&nbsp;
 
