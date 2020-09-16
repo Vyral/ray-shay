@@ -3,6 +3,7 @@ layout: post
 title: 'Q: What Are the Top 8 Reasons Our Market Is on Fire?'
 date: 2020-09-14 18:57:00
 tags:
+  - Market Update
 excerpt: 'Our local housing market is on fire, and there are eight reasons why.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ray+Shay/Q-+What+Are+the+Top+8+Reasons+Our+Market+Is+on+Fire_.mp4
@@ -16,7 +17,7 @@ youtube_code: DrJIlQV28fY
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our local housing market is on fire, and there are eight reasons why.</em></p>
+*Our local housing market is on fire, and there are eight reasons why.*
 
 Why is our local housing market so hot? There are eight reasons, in particular:
 
