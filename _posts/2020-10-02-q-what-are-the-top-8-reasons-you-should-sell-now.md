@@ -15,7 +15,7 @@ youtube_code: '-ziOfMoPkx8'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are eight reasons why now’s the perfect time to sell your home.</em></p>
+*There are eight reasons why now’s the perfect time to sell your home.*
 
 **Here are the top eight reasons it makes sense to sell now in the 92127 ZIP code:**
 
@@ -33,6 +33,6 @@ youtube_code: '-ziOfMoPkx8'
 
 **7\.** You can prompt a lifestyle change.&nbsp;
 
-**8\.** The market turns quickly. For six months, many banks haven’t been reporting people missing their mortgage payments. Could there be a market shift in six months? No one knows, but it’s something to keep an eye on. Only time will tell.&nbsp;
+**8\.** The market turns quickly. For six months, many banks haven’t been reporting people missing their mortgage payments. Could there be a market shift in six months? No one knows, but it’s something to monitor. Only time will tell.&nbsp;
 
 If you’d like to start the home selling process now or have questions about our San Diego real estate market, don’t hesitate to reach out to me. I’d love to help.
