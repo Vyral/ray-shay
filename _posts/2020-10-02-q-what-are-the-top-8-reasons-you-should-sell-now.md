@@ -3,6 +3,7 @@ layout: post
 title: 'Q: What Are the Top 8 Reasons You Should Sell Now?'
 date: 2020-10-02 14:26:00
 tags:
+  - Home Seller Tips
 excerpt: There are eight reasons why now’s the perfect time to sell your home.
 enclosure:
 pullquote:
