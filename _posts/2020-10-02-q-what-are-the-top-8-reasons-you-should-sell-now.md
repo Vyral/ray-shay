@@ -15,7 +15,7 @@ youtube_code: '-ziOfMoPkx8'
 
 {% include youtube.html %}
 
-There are eight reasons why now’s the perfect time to sell your home.&nbsp;
+<p style="text-align: center;"><em>There are eight reasons why now’s the perfect time to sell your home.</em></p>
 
 **Here are the top eight reasons it makes sense to sell now in the 92127 ZIP code:**
 
