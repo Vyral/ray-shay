@@ -16,7 +16,7 @@ youtube_code: LDlPVH7G6JM
 
 {% include youtube.html %}
 
-*Here are our thoughts on how the election will impact our market.*
+<p style="text-align: center;"><em>Here are our thoughts on how the election will impact our market.</em></p>
 
 Today we’re coming to you from our Shay Realtors kiosk—small office, big business\! Speaking of big business, so many people are asking us what’s going to happen after the election takes place. There are plenty of unknowns; discussion rages about the effect it will have on home prices and our market’s overall levels of supply and demand. The government has recently made some changes to small business loans concerning what income owners can and can’t count. If a new administration comes in, what will its policy be regarding this type of lending?&nbsp;
 
