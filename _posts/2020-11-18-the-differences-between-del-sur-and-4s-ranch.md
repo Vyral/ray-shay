@@ -16,7 +16,7 @@ youtube_code: CNOrObjOnNM
 
 {% include youtube.html %}
 
-*Here are the differences between the Del Sur and 4S Ranch communities.*
+<p style="text-align: center;"><em>Here are the differences between the Del Sur and 4S Ranch communities.</em></p>
 
 We sell a ton of homes, and two of the main areas we work in are the Del Sur and 4S Ranch communities. People often ask me, “Are you the local expert?” The answer is yes, my team and I are the local experts in the 92127 ZIP code; **we’ve been here for over 20 years, and we provide excellent service.** Both Del Sur and 4S Ranch are exceptional communities with low crime rates, but today I’m explaining a few of the differences between them.
 
