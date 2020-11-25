@@ -16,7 +16,7 @@ youtube_alternate_image:
 youtube_code: CVd45dr-mAE
 ---
 
-{% include youtube.html %}
+<div><center>{% include youtube.html %}</center></div>
 
 <p style="text-align: center;"><em>Here’s a quick update on how life has changed for Shay Realtors since COVID-19.</em></p>
 
