@@ -16,7 +16,7 @@ youtube_code: CVd45dr-mAE
 
 <div><center>{% include youtube.html %}</center></div>
 
-*Here’s a quick update on how life has changed for Shay Realtors since COVID-19.*
+<p style="text-align: center;"><em>Here’s a quick update on how life has changed for Shay Realtors since COVID-19.</em></p>
 
 The pandemic has changed all our lives and many of our businesses. Shay Realtors is no exception, so today I wanted to talk about some of the ways the pandemic has changed us.
 
