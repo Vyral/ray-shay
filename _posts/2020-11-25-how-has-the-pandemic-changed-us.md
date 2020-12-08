@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How Has the Pandemic Changed Us?
-date: 2020-11-25 23:53:00
+date: 2020-12-08 23:53:00
 tags:
   - COVID-19
 excerpt: We’ve been trying to support small businesses whenever we can.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ray+Shay/How+Has+the+Pandemic+Changed+Us_.mp4
 pullquote: One thing that hasn’t changed is our respect for small business owners.
 enclosure_type: video/mp4
 enclosure_time:
